@@ -2,9 +2,11 @@
 This project provided practical exposure to a complete cloud-based data pipeline, from raw data ingestion to analytics-ready datasets and visualization, strengthening both technical and analytical skills.
 
 Dataset
+
 https://www.kaggle.com/datasets/datasnaek/youtube
 
 Architecture Diagram
+
 <img width="5400" height="3776" alt="Blank diagram (2)" src="https://github.com/user-attachments/assets/5bb044d1-57e1-4517-9e37-deea2d527c76" />
 
 Workflow
